@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\MyProgram\\2025_10_21\\",
+  "WorkspaceRootPath": "D:\\MyProgram\\bond-C-\\2025_10_21\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27D500A0-3BE8-4212-8208-27002A8BED6E}|2025_10_21.vcxproj|D:\\MyProgram\\2025_10_21\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{27D500A0-3BE8-4212-8208-27002A8BED6E}|2025_10_21.vcxproj|D:\\MyProgram\\bond-C-\\2025_10_21\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{27D500A0-3BE8-4212-8208-27002A8BED6E}|2025_10_21.vcxproj|solutionrelative:test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "test.c",
-              "DocumentMoniker": "D:\\MyProgram\\2025_10_21\\test.c",
+              "DocumentMoniker": "D:\\MyProgram\\bond-C-\\2025_10_21\\test.c",
               "RelativeDocumentMoniker": "test.c",
-              "ToolTip": "D:\\MyProgram\\2025_10_21\\test.c",
+              "ToolTip": "D:\\MyProgram\\bond-C-\\2025_10_21\\test.c",
               "RelativeToolTip": "test.c",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAmwIwAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-10-21T10:06:45.929Z",
               "EditorCaption": ""

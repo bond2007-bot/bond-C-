@@ -1,3 +1,2 @@
-﻿  test.c
-D:\MyProgram\2025_10_21\test.c(142,3): error C2143: 语法错误: 缺少“;”(在“{”的前面)
-D:\MyProgram\2025_10_21\test.c(169,4): warning C4013: “print”未定义；假设外部返回 int
+﻿test.obj : error LNK2019: 无法解析的外部符号 print，函数 main 中引用了该符号
+D:\MyProgram\bond-C-\2025_10_21\x64\Debug\2025_10_21.exe : fatal error LNK1120: 1 个无法解析的外部命令

@@ -137,7 +137,7 @@ void game()
 			printf("猜大了\n");
 		else if (guess < r)
 			printf("猜小了\n");
-		else (guess == r)
+		else (guess == r);
 			printf("恭喜你，猜对了！");
 		    break;
 		    count--;
